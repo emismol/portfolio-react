@@ -4,9 +4,9 @@ import Project from "../components/Project";
 const projectData = [
   {
     image: "https://picsum.photos/200/300",
-    title: "Portfolio",
-    deployed: "google.com",
-    repo: "google.com",
+    title: "Portfolio Project 1",
+    deployed: "https://emismol.github.io/horiseon-challenge/",
+    repo: "https://github.com/emismol/portfolio.git",
   },
   {
     image: "https://picsum.photos/200/300",
